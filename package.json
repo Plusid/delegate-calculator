@@ -7,10 +7,10 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "INF Delegate Calculator",
-    "logo": "https://raw.githubusercontent.com/dated/delegate-calculator-plugin/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/plusid/delegate-calculator/master/logo.png",
     "images": [
-      "https://raw.githubusercontent.com/dated/delegate-calculator-plugin/master/images/preview-1.png",
-      "https://raw.githubusercontent.com/dated/delegate-calculator-plugin/master/images/preview-2.png"
+      "https://raw.githubusercontent.com/plusid/delegate-calculator/master/images/preview-1.png",
+      "https://raw.githubusercontent.com/plusid/delegate-calculator/master/images/preview-2.png"
     ],
     "categories": [
       "utility"
