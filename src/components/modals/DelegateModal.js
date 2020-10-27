@@ -158,7 +158,7 @@ module.exports = {
     },
 
     url () {
-      return `https://arkdelegates.live/delegate/${this.delegate.slug}`
+      return `https://api.infinitysolutions.io/api/v2/delegates/${this.delegate.slug}`
     }
   },
 
