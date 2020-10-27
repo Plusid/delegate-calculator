@@ -9,7 +9,7 @@ module.exports = {
       :has-pagination="true"
       :current-page="currentPage"
       :per-page="perPage"
-      :per-page-dropdown="[51]"
+      :per-page-dropdown="[25]"
     >
       <template
         slot-scope="data"
