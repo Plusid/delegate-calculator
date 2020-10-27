@@ -31,7 +31,7 @@ module.exports = {
 
           <template v-else>
             <p class="mb-5">
-              This plugin works only on the ARK Main network.
+              This plugin works only on the INF Main network.
             </p>
 
             <button
@@ -172,7 +172,7 @@ module.exports = {
     },
 
     hasWrongNetwork () {
-      return this.profile.network.token !== 'ARK'
+      return this.profile.network.token !== 'INF'
     },
 
     options () {
