@@ -11,11 +11,11 @@ module.exports = {
     >
       <div class="mb-6 text-grey-darker text-lg">
         <p class="mb-3">
-          The information presented by this plugin is based on the data available on https://arkdelegates.live and has been prepared for informational purposes only.
+          The information presented by this plugin is based on the data available on https://infinitysolutions.io and has been prepared for informational purposes only.
         </p>
 
         <p>
-          Special thanks to delegates <span class="font-semibold">deadlock</span> and <span class="font-semibold">itsanametoo</span> for building and maintaining https://arkdelegates.live
+          Special thanks to delegates <span class="font-semibold">deadlock</span> and <span class="font-semibold">itsanametoo</span> for building and maintaining https://infinitysolutions.io
         </p>
       </div>
     </ModalConfirmation>
