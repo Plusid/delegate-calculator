@@ -1,5 +1,5 @@
 {
-  "name": "@delegate-calculator-plugin",
+  "name": "delegate-calculator-plugin",
   "version": "1.0.0",
   "description": "Compare delegate payouts and get an overview of your potential staking rewards directly in the INF Desktop Wallet",
   "main": "src/index.js",
