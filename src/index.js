@@ -11,7 +11,7 @@ module.exports = {
     this.menuItems = [
       {
         routeName: 'calculator',
-        title: 'ARK Delegate Calculator'
+        title: 'INF Delegate Calculator'
       }
     ]
   },
