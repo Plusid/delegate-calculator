@@ -1,12 +1,12 @@
 {
-  "name": "@dated/delegate-calculator-plugin",
-  "version": "1.0.4",
-  "description": "Compare delegate payouts and get an overview of your potential staking rewards directly in the ARK Desktop Wallet",
+  "name": "@delegate-calculator",
+  "version": "1.0.0",
+  "description": "Compare delegate payouts and get an overview of your potential staking rewards directly in the INF Desktop Wallet",
   "main": "src/index.js",
   "author": "Edgar Goetzendorff <hello@dated.fun>",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "ARK Delegate Calculator",
+    "title": "INF Delegate Calculator",
     "logo": "https://raw.githubusercontent.com/dated/delegate-calculator-plugin/master/logo.png",
     "images": [
       "https://raw.githubusercontent.com/dated/delegate-calculator-plugin/master/images/preview-1.png",
@@ -29,7 +29,7 @@
     "urls": [
       "^"
     ],
-    "minimumVersion": "2.9.1"
+    "minimumVersion": "2.9.4"
   },
   "keywords": [
     "utility",
@@ -40,12 +40,9 @@
     "desktop-wallet",
     "plugin"
   ],
-  "bugs": {
-    "url": "https://github.com/dated/delegate-calculator-plugin/issues"
-  },
   "homepage": "https://github.com/dated/delegate-calculator-plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dated/delegate-calculator-plugin.git"
+    "url": "git+https://github.com/plusid/delegate-calculator.git"
   }
 }
