@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Compare delegate payouts and get an overview of your potential staking rewards directly in the INF Desktop Wallet",
   "main": "src/index.js",
-  "author": "Edgar Goetzendorff <hello@dated.fun>",
+  "author": "Edgar Goetzendorff",
   "license": "MIT",
   "desktop-wallet": {
     "title": "INF Delegate Calculator",
@@ -40,7 +40,7 @@
     "desktop-wallet",
     "plugin"
   ],
-  "homepage": "https://github.com/dated/delegate-calculator-plugin",
+  "homepage": "https://github.com/plusid/delegate-calculator",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/plusid/delegate-calculator.git"
