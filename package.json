@@ -29,7 +29,7 @@
     "urls": [
       "^"
     ],
-    "minimumVersion": "2.9.4"
+    "minimumVersion": "1.0.0"
   },
   "keywords": [
     "utility",
