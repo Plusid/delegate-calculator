@@ -15,7 +15,7 @@ module.exports = {
         </p>
 
         <p>
-          Special thanks to delegates <span class="font-semibold">deadlock</span> and <span class="font-semibold">itsanametoo</span> for building and maintaining https://infinitysolutions.io
+          Special thanks to delegates <span class="font-semibold">deadlock</span> and <span class="font-semibold">infinity developers</span> for building and maintaining https://infinitysolutions.io
         </p>
       </div>
     </ModalConfirmation>
