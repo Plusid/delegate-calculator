@@ -1,9 +1,9 @@
-module.exports = {
+Imodule.exports = {
   upperFirst: str => `${str.charAt(0).toUpperCase()}${str.slice(1)}`,
 
   formatter_currency: (value, currency, language = 'en') => {
     const isCrypto = currency => {
-      return ['ARK', 'BTC', 'ETH', 'LTC'].includes(currency)
+      return ['INF', 'ARK', 'BTC', 'ETH', 'LTC'].includes(currency)
     }
 
     return Number(value).toLocaleString(language, {
